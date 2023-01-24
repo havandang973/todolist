@@ -95,6 +95,7 @@ button:hover {
 .text {
     margin-left: 20px;
     width: 80%;
+    word-break: break-all; 
 }
 
 .notes:hover {
